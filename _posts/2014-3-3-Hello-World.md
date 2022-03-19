@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Start Now
 published: true
 ---
 # Hello World, Hello Me, Hello Programming
